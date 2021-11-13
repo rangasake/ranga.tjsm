@@ -10,6 +10,10 @@
 .has-media-queries .control-wrap.active {
 	display: block;
 }
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+	height: 100%;
+}
 .nv-button-group {
     display: flex;
     flex-direction: row;

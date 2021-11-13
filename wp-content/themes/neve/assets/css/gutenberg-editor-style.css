@@ -408,22 +408,6 @@ body .editor-styles-wrapper p {
   border-radius: 0;
 }
 
-.editor-styles-wrapper p[class*="has-"][class*="-font-size"] {
-  line-height: 1;
-}
-
-.editor-styles-wrapper .has-medium-font-size, .editor-styles-wrapper .has-medium-font-size.wp-block {
-  font-size: calc(var(--h3FontSize) * 1.4) !important;
-}
-
-.editor-styles-wrapper .has-large-font-size, .editor-styles-wrapper .has-large-font-size.wp-block {
-  font-size: calc(var(--h2FontSize) * 1.4) !important;
-}
-
-.editor-styles-wrapper .has-huge-font-size, .editor-styles-wrapper .has-huge-font-size.wp-block {
-  font-size: calc(var(--h1FontSize) * 1.4) !important;
-}
-
 .editor-styles-wrapper .wp-block .wp-block-separator {
   max-width: 100% !important;
 }
